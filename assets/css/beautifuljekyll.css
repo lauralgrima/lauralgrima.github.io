@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Open Sans','Arial', sans-serif;
-  font-size: 1.125rem; /* originally 1 */
+  font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -383,7 +383,7 @@ footer {
   padding: 1.875rem 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
-  font-size: 10.875rem; /* originally 0.8 */
+  font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
