@@ -20,12 +20,12 @@ author: Laura L. Grima
 ###############################################
 
 navbar-links:
-  Home: "https://lauralgrima.github.io/"
-  About Me: "about"
-  Research: "research"
+  home: "https://lauralgrima.github.io/"
+  about: "aboutme"
+  research: "research"
   Publications: "publications"
-  
-   # - Beautiful Jekyll: "https://beautifuljekyll.com" - example of how to include a dropdown menu
+# - Beautiful Jekyll: "https://beautifuljekyll.com" - example of how to include a dropdown menu
+
 ################
 # --- Logo --- #
 ################
