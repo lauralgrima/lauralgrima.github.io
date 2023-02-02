@@ -480,7 +480,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 3; /* 300? */
+  font-weight: 300; /* 300? */
   margin-bottom: 0.625rem;
 }
 .post-preview .post-meta,
