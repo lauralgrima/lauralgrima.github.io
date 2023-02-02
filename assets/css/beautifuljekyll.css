@@ -28,14 +28,14 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans','Arial', sans-serif;
-  font-weight: 800;
+  font-weight: 80; /* originally 800 */
   line-height: 1.1;
 }
 h1 {
   font-size: 2.25rem;
 }
 h2 {
-  font-size: 1.875rem; /* originally 1 */
+  font-size: 1rem;
 }
 h3 {
   font-size: 1.5rem;
@@ -680,7 +680,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 0.1875rem; /* was originally 2.1875 */
+  font-size: 2.1875rem; 
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
@@ -688,7 +688,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 3; /* was originally 300 */
+  font-weight: 300; 
   margin: 0.625rem 0 0;
 }
 .intro-header .post-heading .post-subheading {
