@@ -3,7 +3,19 @@ layout: page
 title: publications
 ---
 <p align="justify">
-Below is a list of my publications and associated resources. You can also see a list of my papers on <a href="https://scholar.google.com/citations?user=JRYWzVMAAAAJ&hl=en">Google Scholar</a>. 
+Below is a list of my preprints, publications and associated resources. You can also see a list of my papers on <a href="https://scholar.google.com/citations?user=JRYWzVMAAAAJ&hl=en">Google Scholar</a>. 
+</p>
+
+<p align="center">
+PREPRINTS
+</p>
+
+<p align="justify">
+  <b>Grima LL</b>, Guo, Y, Narayan, L, Hermundstad, AM, & Dudman, JT (2024). A global dopaminergic learning rate enables adaptive foraging across many options. Link to <a href="https://www.biorxiv.org/content/10.1101/2024.11.04.621923v2.abstract">preprint</a>. 
+</p>
+
+<p align="center">
+PUBLICATIONS
 </p>
 
 <p align="justify">
