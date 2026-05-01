@@ -47,10 +47,10 @@ body {
 }
 
 .intro-hero {
-  min-height: 80vh;
+  min-height: 45vh;
 
-  margin: -2rem calc(50% - 50vw) 3rem;
-  padding: 6rem max(2rem, calc((100vw - 1100px) / 2));
+  margin: -2rem calc(50% - 50vw) 2rem;
+  padding: 3rem max(2rem, calc((100vw - 1100px) / 2));
 
   display: flex;
   align-items: center;
@@ -60,14 +60,13 @@ body {
       rgba(6, 10, 18, 0.45),
       rgba(6, 10, 18, 0.55)
     ),
-    url("/assets/img/fp8_VTA2_cropped.jpg") center top / cover no-repeat;
+    url("/assets/img/brain-bg.jpg") center top / cover no-repeat;
 
   color: #f8fafc;
 }
 
 .intro-hero-content {
-  max-width: 760px;
-  margin: 0 auto;
+  max-width: 600px;
 }
 
 .intro-hero h1 {
