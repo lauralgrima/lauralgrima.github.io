@@ -162,3 +162,33 @@ p, h1, h2, h3 {
 a {
   color: #f6c177;
 }
+
+.news-section {
+  margin: 3rem 0;
+  padding: 1.5rem;
+  border-radius: 22px;
+  background: rgba(10, 15, 25, 0.62);
+  backdrop-filter: blur(8px);
+  color: #f8fafc;
+}
+
+.news-section h2 {
+  margin-top: 0;
+}
+
+.news-item {
+  display: flex;
+  gap: 1rem;
+  border-top: 1px solid rgba(255,255,255,0.15);
+  padding: 1rem 0;
+}
+
+.news-item:first-of-type {
+  border-top: 0;
+}
+
+.news-date {
+  min-width: 4rem;
+  color: #f6c177;
+  font-weight: 700;
+}
