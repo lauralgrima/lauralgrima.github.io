@@ -66,7 +66,8 @@ body {
 }
 
 .intro-hero-content {
-  max-width: 600px;
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
 .intro-hero h1 {
