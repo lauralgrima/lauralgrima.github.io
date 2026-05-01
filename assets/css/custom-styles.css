@@ -177,3 +177,12 @@ h2 {
   color: var(--accent) !important;
   font-weight: 700;
 }
+
+.quick-links {
+  margin-top: -1rem !important;
+  margin-bottom: 5rem !important;
+}
+
+.news-section {
+  margin-top: 5rem !important;
+}
