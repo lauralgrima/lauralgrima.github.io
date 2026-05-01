@@ -16,6 +16,17 @@ body {
   letter-spacing: -0.04em;
 }
 
+.quick-link,
+.quick-link strong,
+.quick-link:visited,
+.quick-link:hover {
+  color: #f8fafc;
+}
+
+.quick-link strong {
+  color: #ffffff !important;
+}
+
 .intro-card {
   padding: 1.5rem;
   border-radius: 18px;
