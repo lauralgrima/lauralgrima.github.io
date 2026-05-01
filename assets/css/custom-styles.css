@@ -159,8 +159,13 @@ h2 {
 .news-item {
   display: flex;
   gap: 1rem;
+  align-items: baseline;
   border-top: 1px solid rgba(255, 255, 255, 0.15);
   padding: 1rem 0;
+}
+
+.news-item p {
+  margin: 0;
 }
 
 .news-item:first-of-type {
