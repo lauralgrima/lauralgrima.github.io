@@ -102,7 +102,7 @@ a:hover {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1.25rem;
-  margin: 2rem 0 3rem;
+  margin: 1rem 0 2rem;
 }
 
 .quick-link {
@@ -144,7 +144,7 @@ h2 {
 /* ---------- News ---------- */
 
 .news-section {
-  margin: 3rem 0;
+  margin: 4rem 0 3rem;
   padding: 1.5rem;
   border-radius: 22px;
   background: rgba(10, 15, 25, 0.62);
