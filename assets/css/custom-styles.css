@@ -1,5 +1,28 @@
 /* assets/css/custom-styles.css */
 
+:root {
+  --accent: #ff5a1f;        /* warm orange/red */
+  --accent-soft: #ff8a4c;   /* lighter orange */
+  --accent-green: #9cff57;  /* yellow-green highlight */
+  --text-light: #f8fafc;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  color: var(--accent-soft);
+}
+
+.news-date {
+  color: var(--accent);
+}
+
+.accent-green {
+  color: var(--accent-green);
+}
+
 body {
   font-size: 18px;
   line-height: 1.7;
@@ -191,4 +214,8 @@ a {
   min-width: 4rem;
   color: #f6c177;
   font-weight: 700;
+}
+
+.quick-link strong {
+  color: var(--accent);
 }
