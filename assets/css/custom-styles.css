@@ -23,6 +23,10 @@ a:hover {
   color: var(--accent-green);
 }
 
+.accent {
+  color: #ff5a1f !important;
+}
+
 body {
   font-size: 18px;
   line-height: 1.7;
@@ -49,6 +53,7 @@ body {
 .quick-link strong {
   color: #ffffff !important;
 }
+
 
 .intro-card {
   padding: 1.5rem;
