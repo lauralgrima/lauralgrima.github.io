@@ -219,3 +219,9 @@ a {
 .quick-link strong {
   color: var(--accent);
 }
+
+.quick-link:hover {
+  box-shadow:
+    0 18px 42px rgba(0,0,0,0.3),
+    0 0 20px rgba(255, 90, 31, 0.25);
+}
