@@ -138,3 +138,7 @@ h2 {
   letter-spacing: 0.02em;
   text-transform: lowercase;
 }
+
+.navbar-brand {
+  display: none !important;
+}
