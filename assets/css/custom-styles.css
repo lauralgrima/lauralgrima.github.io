@@ -53,7 +53,10 @@ body {
   display: flex;
   align-items: center;
   background:
-    linear-gradient(rgba(6, 10, 18, 0.72), rgba(6, 10, 18, 0.82)),
+    linear-gradient(
+      rgba(6, 10, 18, 0.45),
+      rgba(6, 10, 18, 0.55)
+    ),
     url("/assets/img/fp8_VTA2.png") center / cover no-repeat;
   color: #f8fafc;
 }
