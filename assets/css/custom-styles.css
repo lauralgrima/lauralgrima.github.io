@@ -23,6 +23,7 @@ a:hover {
   color: var(--accent-green);
 }
 
+
 .accent {
   color: #ff5a1f !important;
 }
@@ -50,8 +51,8 @@ body {
   color: #f8fafc;
 }
 
-.quick-link strong {
-  color: #ffffff !important;
+.quick-links .quick-link strong {
+  color: #ff5a1f !important;
 }
 
 
@@ -219,6 +220,10 @@ a {
   min-width: 4rem;
   color: #f6c177;
   font-weight: 700;
+}
+
+.news-date {
+  color: #ff5a1f !important;
 }
 
 .quick-link strong {
