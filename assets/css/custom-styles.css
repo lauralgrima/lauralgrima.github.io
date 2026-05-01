@@ -5,6 +5,12 @@ body {
   line-height: 1.7;
 }
 
+body {
+  background:
+    url("/assets/img/fp8_VTA2_cropped.png") center top / cover fixed no-repeat;
+  color: #f8fafc;
+}
+
 .page-heading h1 {
   font-size: 3rem;
   letter-spacing: -0.04em;
@@ -47,17 +53,11 @@ body {
 }
 
 .intro-hero {
-  min-height: 45vh;
-
+  min-height: 35vh;
   margin: -2rem calc(50% - 50vw) 2rem;
   padding: 3rem max(2rem, calc((100vw - 1100px) / 2));
-
   display: flex;
   align-items: center;
-
-  background:
-    url("/assets/img/fp8_VTA2_cropped.png") center top / cover no-repeat;
-
   color: #f8fafc;
 }
 
@@ -93,13 +93,18 @@ body {
 .quick-link {
   display: block;
   padding: 1.5rem;
-  border: 1px solid rgba(15, 23, 42, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.18);
   border-radius: 22px;
-  background: #ffffff;
-  color: #111827;
+  background: rgba(10, 15, 25, 0.72);
+  color: #f8fafc;
   text-decoration: none;
-  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+  backdrop-filter: blur(8px);
+  box-shadow: 0 18px 42px rgba(0, 0, 0, 0.25);
   transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.quick-link strong {
+  color: #ffffff;
 }
 
 .quick-link:hover {
@@ -137,4 +142,12 @@ h2 {
 
 .navbar-brand {
   display: none !important;
+}
+
+p, h1, h2, h3 {
+  color: #f8fafc;
+}
+
+a {
+  color: #f6c177;
 }
