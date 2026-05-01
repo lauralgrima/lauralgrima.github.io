@@ -21,7 +21,7 @@ author: Laura L. Grima
 
 navbar-links:
   home: ""
-  publications: "cv"
+  cv: "cv"
 # - Beautiful Jekyll: "https://beautifuljekyll.com" - example of how to include a dropdown menu
 
 ################
