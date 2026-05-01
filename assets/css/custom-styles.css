@@ -1,0 +1,38 @@
+/* assets/css/custom-styles.css */
+
+body {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.page-heading h1 {
+  font-size: 3rem;
+  letter-spacing: -0.04em;
+}
+
+.intro-card {
+  padding: 1.5rem;
+  border-radius: 18px;
+  background: #f7f7f5;
+  margin: 1.5rem 0;
+}
+
+.quick-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.quick-link {
+  padding: 1.25rem;
+  border: 1px solid #e2e2df;
+  border-radius: 16px;
+  text-decoration: none;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.quick-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
