@@ -48,17 +48,13 @@ body {
 
 .intro-hero {
   min-height: 70vh;
-  margin: -2rem -15px 3rem;
-  padding: 6rem 2rem;
+  margin: -2rem calc(50% - 50vw) 3rem;
+  padding: 6rem max(2rem, calc((100vw - 1000px) / 2));
   display: flex;
   align-items: center;
-  border-radius: 0 0 32px 32px;
   background:
-    linear-gradient(
-      rgba(6, 10, 18, 0.72),
-      rgba(6, 10, 18, 0.82)
-    ),
-    url("/assets/img/brain-bg.jpg") center / cover no-repeat;
+    linear-gradient(rgba(6, 10, 18, 0.72), rgba(6, 10, 18, 0.82)),
+    url("/assets/img/fp8_VTA2.png") center / cover no-repeat;
   color: #f8fafc;
 }
 
