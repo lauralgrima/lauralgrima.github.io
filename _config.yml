@@ -20,8 +20,8 @@ author: Laura L. Grima
 ###############################################
 
 navbar-links:
-  home: ""
-  cv: "assets/pdf/lauragrima_cv_2026_v3.pdf"
+  Home: ""
+  CV: "assets/pdf/lauragrima_cv_2026_v3.pdf"
 # - Beautiful Jekyll: "https://beautifuljekyll.com" - example of how to include a dropdown menu
 
 ################
