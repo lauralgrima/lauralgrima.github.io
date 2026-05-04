@@ -62,7 +62,7 @@ a:hover {
 
 .intro-hero {
   min-height: 35vh;
-  margin: -2rem calc(50% - 50vw) 2rem;
+  margin: -2rem calc(50% - 50vw) 0.5rem;
   padding: 3rem max(2rem, calc((100vw - 1100px) / 2));
   display: flex;
   align-items: center;
