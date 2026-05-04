@@ -186,3 +186,35 @@ h2 {
 .news-section {
   margin-top: 5rem !important;
 }
+
+
+/* ---------- Navbar (top bar) ---------- */
+
+.navbar-custom {
+  background-color: rgba(10, 15, 25, 0.85) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.navbar-custom .nav li a {
+  color: #f8fafc !important;
+}
+
+.navbar-custom .nav li a:hover {
+  color: var(--accent) !important;
+}
+
+/* ---------- Footer (bottom bar) ---------- */
+
+footer {
+  background-color: rgba(10, 15, 25, 0.85) !important;
+  color: #f8fafc;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+footer a {
+  color: #f8fafc;
+}
+
+footer a:hover {
+  color: var(--accent);
+}
