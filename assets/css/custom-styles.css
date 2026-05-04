@@ -198,3 +198,13 @@ footer .fa-stack:hover .fa-stack-1x {
 footer img[alt="Bluesky"] {
   filter: invert(1);
 }
+
+/* FINAL navbar hover override */
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .nav > li > a:hover,
+.navbar-custom .nav > li > a:focus {
+  color: var(--accent) !important;
+  background-color: transparent !important;
+}
