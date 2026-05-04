@@ -94,6 +94,11 @@ a:hover {
   color: var(--accent) !important;
 }
 
+.about-blurb {
+  border-left: 3px solid var(--accent);
+  padding-left: 1rem;
+}
+
 /* ---------- Cards ---------- */
 .quick-links {
   display: grid;
