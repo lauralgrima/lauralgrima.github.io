@@ -218,3 +218,8 @@ footer a {
 footer a:hover {
   color: var(--accent);
 }
+
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus {
+  color: var(--accent) !important;
+}
