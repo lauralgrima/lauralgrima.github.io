@@ -237,3 +237,32 @@ footer .social-links a:hover i {
   color: var(--accent) !important;
   background-color: transparent !important;
 }
+
+/* Footer social icons */
+
+footer .social-links a,
+footer .list-inline a {
+  background-color: rgba(10, 15, 25, 0.95) !important;
+  border: 1px solid rgba(255, 255, 255, 0.35) !important;
+  color: #f8fafc !important;
+}
+
+footer .social-links a i,
+footer .list-inline a i,
+footer .fa,
+footer .fab,
+footer .fas {
+  color: #f8fafc !important;
+}
+
+footer .social-links a:hover,
+footer .list-inline a:hover {
+  background-color: var(--accent) !important;
+  border-color: var(--accent) !important;
+  color: #0a0f19 !important;
+}
+
+footer .social-links a:hover i,
+footer .list-inline a:hover i {
+  color: #0a0f19 !important;
+}
