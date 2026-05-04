@@ -194,3 +194,7 @@ footer .fa-stack:hover .fa-stack-2x {
 footer .fa-stack:hover .fa-stack-1x {
   color: #0a0f19 !important;
 }
+
+footer img[alt="Bluesky"] {
+  filter: invert(1);
+}
