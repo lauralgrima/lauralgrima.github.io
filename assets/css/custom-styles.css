@@ -223,3 +223,17 @@ footer a:hover {
 .navbar-custom .nav li a:focus {
   color: var(--accent) !important;
 }
+
+footer .social-links a:hover {
+  background-color: var(--accent) !important;
+}
+
+footer .social-links a:hover i {
+  color: #0a0f19 !important; /* dark icon on green */
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus {
+  color: var(--accent) !important;
+  background-color: transparent !important;
+}
