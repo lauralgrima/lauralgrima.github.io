@@ -6,19 +6,28 @@
   </p>
 </div>
 
-<h2 class="pub-section-title">Preprints</h2>
+<h2 class="pub-section-title">Publications</h2>
 
 <div class="pub-item">
   <div class="pub-text">
-    <strong class="author-highlight">Grima LL</strong>, Guo Y, Narayan L, Hermundstad AM, & Dudman JT (2024).
-    A global dopaminergic learning rate enables adaptive foraging across many options.
+    <strong class="author-highlight">Grima LL</strong>, Guo Y, Narayan L, Hermundstad AM, & Dudman JT (2026).
+    A global dopaminergic learning rate enables adaptive foraging across many options. <em>Neuron</em>, in press.
   </div>
   <div class="pub-links">
     <a href="https://www.biorxiv.org/content/10.1101/2024.11.04.621923v2.abstract" title="Preprint">preprint</a>
   </div>
 </div>
 
-<h2 class="pub-section-title">Publications</h2>
+<div class="pub-item">
+  <div class="pub-text">
+    <strong class="author-highlight">Grima LL</strong>, Haberkern H, Mohanta R, Moriomoto MM, Rajagopalan AE, & Scholey EV (2025).
+    Foraging as an ethological framework for neuroscience.
+    <em>Trends in Neurosciences</em>, 48(11), 877-890.
+  </div>
+  <div class="pub-links">
+    <a href="https://www.cell.com/trends/neurosciences/article/S0166-2236(25)00184-5/pdf" title="Paper">review</a>
+  </div>
+</div>
 
 <div class="pub-item">
   <div class="pub-text">
