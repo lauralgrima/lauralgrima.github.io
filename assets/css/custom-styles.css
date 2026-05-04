@@ -255,3 +255,8 @@ footer .fa-stack:hover .fa-stack-2x {
 footer .fa-stack:hover .fa-stack-1x {
   color: #0a0f19 !important;
 }
+
+.quick-links {
+  transform: translateY(-2rem);
+  margin-bottom: 1rem;
+}
