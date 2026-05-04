@@ -99,7 +99,7 @@ a:hover {
   padding-left: 1rem;
   margin-top: 1rem;
 
-  font-size: 0.9rem;
+  font-size: 0.9rem !important;
   line-height: 1.6;
   color: var(--text-muted);
 }
