@@ -218,3 +218,18 @@ footer img[alt="Bluesky"] {
   color: var(--accent) !important;
   background-color: transparent !important;
 }
+
+/* About blurb override */
+
+.intro-hero .about-blurb p {
+  font-size: 0.9rem !important;
+  line-height: 1.55 !important;
+  color: var(--text-muted) !important;
+  margin: 0 !important;
+}
+
+.intro-hero .about-blurb {
+  border-left: 3px solid var(--accent);
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
