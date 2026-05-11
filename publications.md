@@ -14,7 +14,9 @@
     A global dopaminergic learning rate enables adaptive foraging across many options. <em>Neuron</em>, in press.
   </div>
   <div class="pub-links">
-    <a href="https://www.biorxiv.org/content/10.1101/2024.11.04.621923v2.abstract" title="Preprint">preprint</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0896627326002795" title="Paper">paper</a>
+    <a href="https://doi.org/10.25378/janelia.31807939" title="Data">data</a>
+    <a href="https://github.com/lauralgrima/FoMO_code" title="Code">code</a>
   </div>
 </div>
 
