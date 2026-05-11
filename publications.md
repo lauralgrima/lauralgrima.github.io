@@ -46,7 +46,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    Härmson O*, <strong class="author-highlight">Grima LL</strong>, Panayi MC, Husain M, & Walton ME (2022).
+    Härmson O*, <strong class="author-highlight">Grima LL</strong>*, Panayi MC, Husain M, & Walton ME (2022).
     5-HT2C receptor perturbation has bidirectional influence over instrumental vigour and restraint.
     <em>Psychopharmacology</em>, 239, 123–140.
   </div>
